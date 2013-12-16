@@ -5,7 +5,7 @@ var path = require('path');
 var rework = require('rework');
 var hex = require('..');
 
-describe('rework-font-variant', function () {
+describe('rework-hex-alpha', function () {
   it('should work', function () {
     var input = fixture('input');
     var output = fixture('output');
