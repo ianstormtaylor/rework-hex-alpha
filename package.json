@@ -1,7 +1,7 @@
 {
   "name": "rework-hex-alpha",
   "repository": "git://github.com/ianstormtaylor/rework-hex-alpha.git",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "description": "Convert hex colors with alpha values into their RGBA equivalents for more browser support.",
   "keywords": [
