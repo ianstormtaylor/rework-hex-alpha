@@ -10,7 +10,7 @@ describe('rework-hex-alpha', function () {
     var input = fixture('input');
     var output = fixture('output');
     var css = rework(input).use(hex).toString().trim();
-    assert(css == output);
+    assert.equal(css, output);
   });
 });
 

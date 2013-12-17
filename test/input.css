@@ -5,6 +5,6 @@
 
 body {
   color: #939;
-  background-color: #f303;
+  background: url(images/thing.png) #f303;
   border-color: #ff330033;
 }
